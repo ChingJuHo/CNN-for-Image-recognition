@@ -1,11 +1,11 @@
 # CNN-for-Image-recognition
-In this exercise, you will construct a Convolutional Neural Network (CNN) for image recognition
-by using the Animals-10 dataset. The original dataset contains about 28K animal images with
-medium quality where there are 10 categories/animals. The 10 categories are Dog, Horse,
-Elephant, Butterfly, Chicken, Cat, Cow, Sheep, Spider, and Squirrel. Some example images of
-10 categories are shown below.
 
-The collected dataset is a subset of the original dataset where the number of images for
-training and testing in different categories is listed in the following table. This dataset is
-accessible in the link https://www.kaggle.com/alessiocorrado99/animals10. You should perform preprocessing over the images such as resizing or
-cropping by yourself in the implementation.
+![Question](https://user-images.githubusercontent.com/41780076/118234062-67534700-b4c5-11eb-9d4e-8652bf7dda7d.PNG)
+
+# Results
+![01](https://user-images.githubusercontent.com/41780076/118234386-d29d1900-b4c5-11eb-9870-702c0f9b2796.png)
+![02](https://user-images.githubusercontent.com/41780076/118234410-dfba0800-b4c5-11eb-872b-4b6713cf1bef.png)
+![03](https://user-images.githubusercontent.com/41780076/118234521-02e4b780-b4c6-11eb-906f-520242a19f1a.png)
+![04](https://user-images.githubusercontent.com/41780076/118234528-06783e80-b4c6-11eb-89d2-aa1b29592125.png)
+![05](https://user-images.githubusercontent.com/41780076/118234536-08da9880-b4c6-11eb-9bcd-6b2e6a1a3432.png)
+
